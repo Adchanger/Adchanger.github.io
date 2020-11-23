@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://adchanger.github.io/</id>
     <title>Adchanger</title>
-    <updated>2020-11-23T03:02:25.114Z</updated>
+    <updated>2020-11-23T03:03:52.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://adchanger.github.io/"/>
     <link rel="self" href="https://adchanger.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://adchanger.github.io/images/avatar.png</logo>
     <icon>https://adchanger.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Adchanger</rights>
-    <entry>
-        <title type="html"><![CDATA[None]]></title>
-        <id>https://adchanger.github.io/post/none/</id>
-        <link href="https://adchanger.github.io/post/none/">
-        </link>
-        <updated>2020-11-23T03:01:42.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://adchanger.github.io//post-images/1606100526389.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[项目管理概论第一章：导论]]></title>
         <id>https://adchanger.github.io/post/xiang-mu-guan-li-gai-lun-di-yi-zhang-dao-lun/</id>
@@ -123,15 +114,6 @@
 <p>a、约束性目标：满足质量、时间和费用</p>
 <p>b、满意度目标：客户认可、满意</p>
 <p>c、可持续：资源节约、环境友好</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你好~]]></title>
-        <id>https://adchanger.github.io/post/Hello~/</id>
-        <link href="https://adchanger.github.io/post/Hello~/">
-        </link>
-        <updated>2020-11-08T14:18:23.000Z</updated>
-        <content type="html"><![CDATA[<p>Hello Word！</p>
 ]]></content>
     </entry>
 </feed>
